@@ -14,7 +14,7 @@ I am a programming student with a strong focus on back-end development and block
 - 📫 Reach out to me at: paumgertner@gmail.com
 
 Outside the tech world:
-💜 I love Harry Potter⚡️, Assassin's Creed 🗡️, and true crime stories🔪🩸.
+💜 I love Harry Potter⚡️, Assassin's Creed 🗡️, true crime stories🔪🩸 and cryptography enthusiast 🔐.
 
 ## My Skills Include
 
@@ -62,3 +62,17 @@ Outside the tech world:
 -->
 
 </span>
+
+<h3>My GitHub Stats</h3>
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
+<br>
+
+
+![LumenNoruega's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LumenNoruega&theme=tokyonight&layout=compact)
+
+
+
+
+
+
+
