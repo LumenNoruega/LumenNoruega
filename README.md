@@ -7,7 +7,9 @@
 I am a programming student with a strong focus on back-end development and blockchain technologies. I am highly responsible, assertive, and organized, always eager to learn, innovate, and take on new challenges.
 
 - 🌱 I’m currently learning:
-  - React
+  - Rust
+  - Solana
+  - EVM
   - Blockchain development
 - 💡 Passionate about blockchain technologies.
 - 🤝 I enjoy connecting with other developers to share knowledge and ideas.
