@@ -4,7 +4,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am a programming student with a strong focus on back-end development and blockchain technologies. I am highly responsible, assertive, and organized, always eager to learn, innovate, and take on new challenges.
+I have completed my studies in programming, where I primarily focused on back-end development. Now, I am on my way to becoming a blockchain developer, training in Solidity, smart contracts, Solana, and Rust. I am responsible, assertive, and organized, always eager to learn, innovate, and take on new challenges.
 
 - 🌱 I’m currently learning:
   - Rust
