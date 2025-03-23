@@ -21,7 +21,7 @@ Outside the tech world:
 ## My Skills Include
 
 <span>
-  <img src="https://skillicons.dev/icons?i=solidity,js,java,py,rust,spring,ts,bash,cs,cpp,docker,maven,mysql,nodejs,npm,express,flutter,git,github,htmx,postman,powershell,py,rust,spring,html,css" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=solidity,js,java,py,rust,spring,ts,bash,cs,cpp,docker,maven,mysql,nodejs,npm,express,flutter,git,github,htmx,postman,powershell,html,css" alt="My Skills" />
 </span>
 
 ## Other Skills
